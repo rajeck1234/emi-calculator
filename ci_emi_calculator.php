@@ -1,14 +1,5 @@
 <?php
-/*
-Plugin Name: CI Emi calculator
-Plugin URI: https://www.calculator.io/emi-calculator/
-Description: Manage loans effectively with an EMI calculator. Calculate EMIs, total interest, and assess affordability. Make informed decisions and save money.
-Version: 1.0.0
-Author: EMI Calculator / www.calculator.io
-Author URI: https://www.calculator.io/
-License: GPLv2 or later
-Text Domain: ci_emi_calculator
-*/
+
 
 if (!defined('ABSPATH')) exit;
 
